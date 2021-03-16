@@ -1,5 +1,6 @@
 """
 Fixed point iteration method
+Author: Aditya Kahol
 """
 """
 Input: functions-> 'phi', initial approx-> x0, and n
