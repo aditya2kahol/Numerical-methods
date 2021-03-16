@@ -1,5 +1,6 @@
 """
 Bisection method
+Author: Aditya Kahol
 """
 # input: function f, and values in abscissa, such that f(a).f(b) < 0, and an error term e.
 # ouput: root of f, lying in (a,b).
