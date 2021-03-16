@@ -1,5 +1,6 @@
 """
 Newton-Raphson method
+Author: Aditya Kahol
 """
 """
 input: function f, its derivation f_dash and a point x0, and n
