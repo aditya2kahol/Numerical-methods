@@ -1,5 +1,6 @@
 """
 Regula falsi method
+Author: Aditya Kahol
 """
 #Input: a lambda function f, lower limit 'a', upper limit 'b', no. of approx. 'n'
 #Output: All the approximations.
